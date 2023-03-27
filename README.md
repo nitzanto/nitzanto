@@ -8,7 +8,7 @@ As a second year computer science student, I am constantly learning and improvin
 
 * 🌍  I'm based in Israel
 * ✉️  You can contact me at [nitzan16001@gmail.com](mailto:nitzan16001@gmail.com)
-* 🧠  I'm learning Web Application Development and Python
+* 🧠  I'm currently learning Web Application Development and Python
 
 ### Skills
 
