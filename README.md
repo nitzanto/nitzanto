@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-As a second year computer science student, I am constantly learning and improving my skills in programming, software development, and problem-solving. I am passionate about using technology to make a positive impact on society and am excited to contribute to innovative projects that can change the world. My Github profile is a showcase of my projects and interests, and I welcome collaboration and feedback from the community.
+As computer science student, I am constantly learning and improving my skills in programming, software development, and problem-solving. I am passionate about using technology to make a positive impact on society and am excited to contribute to innovative projects that can change the world. My Github profile is a showcase of my projects and interests, and I welcome collaboration and feedback from the community.
 
 * 🌍  I'm based in Israel
 * ✉️  You can contact me at [nitzan16001@gmail.com](mailto:nitzan16001@gmail.com)
