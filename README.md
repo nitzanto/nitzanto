@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nitzan Toledo
 =====================================================================================================================================
 
-Computer Science Student
+Software Developer
 ------------------------
 
 As a computer science student, I am constantly learning and improving my skills in programming, software development, and problem-solving. I am passionate about using technology to make a positive impact on society and am excited to contribute to innovative projects that can change the world. My Github profile is a showcase of my projects and interests, and I welcome collaboration and feedback from the community.
