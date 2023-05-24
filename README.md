@@ -50,7 +50,7 @@ As a computer science student, I am constantly learning and improving my skills 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nitzanto"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nitzanto&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Nitzans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitzanto&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <b>Top Repositories</b>
 
