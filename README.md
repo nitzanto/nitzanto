@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/120420731/243376819-9cc0bd3a-86de-4779-a41b-4cb3746993bf.gif" width="350" height="350" />
+<div align="center"><img src="https://user-images.githubusercontent.com/120420731/243376819-9cc0bd3a-86de-4779-a41b-4cb3746993bf.gif" width="350" height="350" /></div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nitzan Toledo
 =====================================================================================================================================
